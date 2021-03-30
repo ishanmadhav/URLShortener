@@ -1,0 +1,32 @@
+body{
+    background-color: bisque;
+
+}
+#div1
+{
+    background-color: azure;
+    text-align: center;
+    width:40%;
+    padding: 10%;
+    border-radius: 5%;
+    margin: auto
+}
+
+.xBtn
+{
+    
+    border-radius: 10%;
+    padding: 16px 32px;
+    cursor:pointer;
+    transition-duration: 0.5s;
+    border: none
+    
+    
+}
+
+.xBtn:hover
+{
+    background-color: beige;
+    transition-duration: 0.5s;
+    padding: 8px 16px
+}
